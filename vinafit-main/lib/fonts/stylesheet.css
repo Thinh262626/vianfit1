@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'VNM Sans Display';
+    src: url('VNMSansDisplay-Bold.woff2') format('woff2'),
+        url('VNMSansDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VNM Sans Display';
+    src: url('VNMSansDisplay-Regular.woff2') format('woff2'),
+        url('VNMSansDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VNM Sans Std';
+    src: url('VNMSansStd-Regular.woff2') format('woff2'),
+        url('VNMSansStd-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
